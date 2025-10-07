@@ -1,0 +1,8 @@
+1. Lo aprendido durante el desarrollo del proyecto
+Durante el desarrollo de este proyecto aprendí a aplicar de forma práctica los conceptos fundamentales de la programación orientada a objetos en Java. Pude comprender cómo estructurar un programa modular utilizando clases, métodos y archivos de entrada y salida. También reforcé mi manejo de Eclipse y GitHub, aprendiendo a integrar el control de versiones en un entorno de desarrollo real. Además, entendí la importancia de planificar la lógica del programa antes de codificar, para evitar errores y mejorar la organización del código.
+
+2. Posibles aplicaciones en mi vida profesional
+Las destrezas adquiridas durante este proyecto son directamente aplicables a mi vida profesional, especialmente en el desarrollo de software y en el análisis de datos. La manipulación de archivos, la generación de reportes y la estructuración de código reutilizable son habilidades que podré emplear en proyectos empresariales o de investigación. Además, el uso de GitHub como repositorio profesional me permite documentar y compartir mi trabajo, fortaleciendo mi perfil técnico.
+
+3. Dificultades presentadas durante el desarrollo del proyecto
+Entre las principales dificultades encontradas estuvieron los errores de compilación por secuencias de escape en las rutas de archivos, así como la configuración inicial del entorno de Eclipse y el uso de GitHub. También fue retador comprender cómo enlazar correctamente las clases para generar y procesar los archivos de prueba. Sin embargo, cada uno de estos desafíos contribuyó al aprendizaje y a mejorar mi capacidad para depurar código y gestionar proyectos en Java de manera más eficiente.
